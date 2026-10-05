@@ -8,7 +8,9 @@ Instead of relying only on filenames or folders, the system uses AI-generated de
 
 ## Demo
 
-**Demo video:** _Add your demo video link here before submission._
+## Demo Video
+
+🎥 [Watch the Project Demo](https://drive.google.com/file/d/1noSYY2qnPyNfsW8Bdj3QQhziz9d-s8HX/view?usp=drivesdk)
 
 **GitHub Repository:**  
 https://github.com/1616piyu/ai-digital-asset-manager
